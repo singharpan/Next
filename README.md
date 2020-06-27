@@ -4,3 +4,13 @@
 
 
 --npm install next react react-dom---------------
+
+
+ "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next bulid",
+    "start": "next start"
+  },
+  
+  ---three scriprt are given in package.json..........1:to run in development mode ,2:to make in production built ,3:start to run bulid in production mode
