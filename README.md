@@ -17,3 +17,5 @@
   
   
   ---npm run dev    ....is ready now......but it will give error....as it needs a pages folder
+  
+  --we don't need any new library link react-router for navigation..nextjs have inbulilt packages for this
